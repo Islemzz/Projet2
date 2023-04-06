@@ -468,7 +468,8 @@ nav ul li a:hover {
 
 /* **************Break point****************** */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px)
+ {
   nav,
   .header-containers,
   #search-result,
@@ -677,7 +678,8 @@ nav ul li a:hover {
     padding: 40px 50px;
     margin: 50px 0 0 0;
   }
-  .footer {
+  footer {
+    flex-direction: column;
     padding-bottom: 20px;
     width: 100%;
   }
