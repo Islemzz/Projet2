@@ -26,14 +26,17 @@ nav {
   align-items: center;
   margin: 0 30px;
 }
+
 .logo {
   width: 61px;
 }
+
 nav ul {
   display: flex;
   align-items: center;
   height: 100px;
 }
+
 nav ul li {
   position: relative;
   display: flex;
